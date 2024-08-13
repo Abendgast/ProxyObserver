@@ -10,6 +10,7 @@ system_ready=true
 nmap_errors=$(mktemp)
 
 # Перевірка доступу до Інтернету
+
 echo -n "Перевірка інтернет з'єднання..."
 timeout=3
 if curl --connect-timeout ${timeout} -s -o /dev/null https://www.krea.ai/; then
