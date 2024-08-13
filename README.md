@@ -17,6 +17,8 @@ ProxyObserver isn't just about connections; it's about empowering your online ex
 - **Constant Connection Vigilance**: Our checks are as regular as clockwork, for uninterrupted service.
 - **Dynamic Proxy Rotation**: Fresh proxies every 10 minutes, because variety is the spice of the net.
 
+
+
 ## 🔮 What's on the Horizon
 
 The future is bright as we're taking ProxyObserver to new heights. With a transition to Python, expect more flexibility, more power, and an even better user experience.
